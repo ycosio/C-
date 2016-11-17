@@ -1,0 +1,6 @@
+c:\users\ycosio\documents\visual studio 2015\Projects\pruebaUnitariaDeOrdenamiento\pruebaUnitariaDeOrdenamiento\bin\Debug\pruebaUnitariaDeOrdenamiento.dll
+c:\users\ycosio\documents\visual studio 2015\Projects\pruebaUnitariaDeOrdenamiento\pruebaUnitariaDeOrdenamiento\bin\Debug\pruebaUnitariaDeOrdenamiento.pdb
+c:\users\ycosio\documents\visual studio 2015\Projects\pruebaUnitariaDeOrdenamiento\pruebaUnitariaDeOrdenamiento\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ycosio\documents\visual studio 2015\Projects\pruebaUnitariaDeOrdenamiento\pruebaUnitariaDeOrdenamiento\obj\Debug\pruebaUnitariaDeOrdenamiento.csprojResolveAssemblyReference.cache
+c:\users\ycosio\documents\visual studio 2015\Projects\pruebaUnitariaDeOrdenamiento\pruebaUnitariaDeOrdenamiento\obj\Debug\pruebaUnitariaDeOrdenamiento.dll
+c:\users\ycosio\documents\visual studio 2015\Projects\pruebaUnitariaDeOrdenamiento\pruebaUnitariaDeOrdenamiento\obj\Debug\pruebaUnitariaDeOrdenamiento.pdb

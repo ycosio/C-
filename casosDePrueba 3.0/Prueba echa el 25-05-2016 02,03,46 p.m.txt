@@ -1,0 +1,93 @@
+Caso de prueba: 0001
+Operacion: mediaAritmetica
+Datos: 2 4 8
+Tiempo transcurrido: 00:00:00.0011059
+Resultado: 4.66666666666667
+Esperado: 4.6667
+
+Caso de prueba: 0002
+Operacion: mediaAritmetica
+Datos: 1 5
+Tiempo transcurrido: 00:00:00.0000992
+Resultado: 3
+Esperado: 3.0000
+
+Caso de prueba: 0003
+Operacion: mediaAritmetica
+Datos: 1 2 4 8 16 32
+Tiempo transcurrido: 00:00:00.0000894
+Resultado: 10.5
+Esperado: 10.5000
+
+Caso de prueba: 0004
+Operacion: mediaGeometrica
+Datos: 1 2 4 8 16 32
+Tiempo transcurrido: 00:00:00.0016973
+Resultado: 5.65685424949238 :Prueba fallida(Resultado esperado equivocado)
+Esperado: 6.6569
+
+Caso de prueba: 0005
+Operacion: mediaGeometrica
+Datos: 0
+Tiempo transcurrido: 00:00:00.0008948
+Resultado: 0
+Esperado: 0.0000
+
+Caso de prueba: 0006
+Operacion: mediaGeometrica
+Datos: 2 4 8
+Tiempo transcurrido: 00:00:00.0008185
+Resultado: 4
+Esperado: 4.0000
+
+Caso de prueba: 0007
+Operacion: mediaArmonica
+Datos: 2 4 8
+Tiempo transcurrido: 00:00:00.0008034
+Resultado: Prueba fallifa(Metodo no implementado)
+Esperado: 3.4286
+
+Caso de prueba: 0008
+Operacion: mediaArmonica
+Datos: 2 3 6
+Tiempo transcurrido: 00:00:00.0008860
+Resultado: Prueba fallifa(Metodo no implementado)
+Esperado: 3.0000
+
+Caso de prueba: 0009
+Operacion: mediaAritmetica
+Datos: 5 6
+Tiempo transcurrido: 00:00:00.0009525
+Resultado: 5.5 :Prueba fallida(Resultado esperado equivocado)
+Esperado: 0.0000
+
+Caso de prueba: 0010
+Operacion: mediaGeometrica
+Datos: 0 0 0 0
+Tiempo transcurrido: 00:00:00.0012476
+Resultado: 0
+Esperado: Exception
+
+Caso de prueba: 0011
+Operacion: mediaAritmetica
+Datos: NULL
+Tiempo transcurrido: 00:00:00.0009114
+Resultado: 0
+Esperado: 0.0000
+
+Caso de prueba: 0012
+Operacion: mediaGeometrica
+Datos: NULL
+Tiempo transcurrido: 00:00:00.0021791
+Resultado: 0
+Esperado: 0.0000
+
+Caso de prueba: 0013
+Operacion: mediaNoExiste
+Datos: 2 3 6
+Tiempo transcurrido: 00:00:00.0008405
+Resultado: Prueba fallifa(Metodo no implementado)
+Esperado: 3.0320
+
+Exitosos: 8 Fallidos: 5
+

@@ -1,0 +1,10 @@
+c:\users\temp.telematica\documents\visual studio 2013\Projects\mate\mate\bin\Debug\mate.exe.config
+C:\Users\TEMP\Documents\Visual Studio 2013\Projects\mate\mate\bin\Debug\mate.exe.config
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\mate\mate\bin\Debug\mate.exe.config
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\mate\mate\bin\Debug\mate.exe
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\mate\mate\bin\Debug\mate.pdb
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\mate\mate\obj\Debug\mate.csprojResolveAssemblyReference.cache
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\mate\mate\obj\Debug\mate.Properties.Resources.resources
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\mate\mate\obj\Debug\mate.csproj.GenerateResource.Cache
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\mate\mate\obj\Debug\mate.exe
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\mate\mate\obj\Debug\mate.pdb

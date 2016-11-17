@@ -1,0 +1,91 @@
+Caso de prueba: 0001
+Operacion: mediaAritmetica
+Datos: 2 4 8
+Tiempo transcurrido: 00:00:00.0005026
+Resultado: Prueba fallida(Resultado esperado equivocado)
+Esperado: 4.6667
+
+Caso de prueba: 0002
+Operacion: mediaAritmetica
+Datos: 1 5
+Tiempo transcurrido: 00:00:00.0002025
+Resultado: Prueba fallida(Resultado esperado equivocado)
+Esperado: 3.0000
+
+Caso de prueba: 0003
+Operacion: mediaAritmetica
+Datos: 1 2 4 8 16 32
+Tiempo transcurrido: 00:00:00.0002053
+Resultado: Prueba fallida(Resultado esperado equivocado)
+Esperado: 10.5000
+
+Caso de prueba: 0004
+Operacion: mediaGeometrica
+Datos: 1 2 4 8 16 32
+Tiempo transcurrido: 00:00:00.0011959
+Resultado: Prueba fallida(Resultado esperado equivocado)
+Esperado: 6.6569
+
+Caso de prueba: 0005
+Operacion: mediaGeometrica
+Datos: 0
+Tiempo transcurrido: 00:00:00.0006183
+Resultado: Prueba fallida(Resultado esperado equivocado)
+Esperado: 0.0000
+
+Caso de prueba: 0006
+Operacion: mediaGeometrica
+Datos: 2 4 8
+Tiempo transcurrido: 00:00:00.0006173
+Resultado: Prueba fallida(Resultado esperado equivocado)
+Esperado: 4.0000
+
+Caso de prueba: 0007
+Operacion: mediaArmonica
+Datos: 2 4 8
+Tiempo transcurrido: 00:00:00.0006210
+Resultado: Prueba fallifa(Metodo no implementado)
+Esperado: 3.4286
+
+Caso de prueba: 0008
+Operacion: mediaArmonica
+Datos: 2 3 6
+Tiempo transcurrido: 00:00:00.0006005
+Resultado: Prueba fallifa(Metodo no implementado)
+Esperado: 3.0000
+
+Caso de prueba: 0009
+Operacion: mediaAritmetica
+Datos: 5 6
+Tiempo transcurrido: 00:00:00.0493633
+Resultado: Prueba fallida(Resultado esperado equivocado)
+Esperado: 0.0000
+
+Caso de prueba: 0010
+Operacion: mediaGeometrica
+Datos: 0 0 0 0
+Tiempo transcurrido: 00:00:00.0000516
+Resultado: Prueba fallida(Resultado esperado equivocado)
+Esperado: Exception
+
+Caso de prueba: 0011
+Operacion: mediaAritmetica
+Datos: NULL
+Tiempo transcurrido: 00:00:00.0115097
+Resultado: Prueba fallida(Resultado esperado equivocado)
+Esperado: 0.0000
+
+Caso de prueba: 0012
+Operacion: mediaGeometrica
+Datos: NULL
+Tiempo transcurrido: 00:00:00.0005598
+Resultado: Prueba fallida(Resultado esperado equivocado)
+Esperado: 0.0000
+
+Caso de prueba: 0013
+Operacion: mediaNoExiste
+Datos: 2 3 6
+Tiempo transcurrido: 00:00:00.0005512
+Resultado: Prueba fallifa(Metodo no implementado)
+Esperado: 3.0320
+

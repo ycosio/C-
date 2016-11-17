@@ -1,0 +1,78 @@
+Caso de prueba: 0001
+Operacion: mediaAritmetica
+Datos: 2 4 8
+Tiempo transcurrido: 00:00:00.0004472
+Resultado: 4.66666666666667
+
+Caso de prueba: 0002
+Operacion: mediaAritmetica
+Datos: 1 5
+Tiempo transcurrido: 00:00:00.0001057
+Resultado: 3
+
+Caso de prueba: 0003
+Operacion: mediaAritmetica
+Datos: 1 2 4 8 16 32
+Tiempo transcurrido: 00:00:00.0001081
+Resultado: 10.5
+
+Caso de prueba: 0004
+Operacion: mediaGeometrica
+Datos: 1 2 4 8 16 32
+Tiempo transcurrido: 00:00:00.0004349
+Resultado: 5.65685424949238
+
+Caso de prueba: 0005
+Operacion: mediaGeometrica
+Datos: '0'
+Tiempo transcurrido: 00:00:00.0008561
+Resultado: Prueba fallida(Elementos vacios,en 0 o datos no numericos)
+
+Caso de prueba: 0006
+Operacion: mediaGeometrica
+Datos: 2 4 8
+Tiempo transcurrido: 00:00:00.0007617
+Resultado: 4
+
+Caso de prueba: 0007
+Operacion: mediaArmonica
+Datos: 2 4 8
+Tiempo transcurrido: 00:00:00.0008167
+Resultado: Prueba fallifa(Metodo no implementado)
+
+Caso de prueba: 0008
+Operacion: mediaArmonica
+Datos: 2 3 6
+Tiempo transcurrido: 00:00:00.0008681
+Resultado: Prueba fallifa(Metodo no implementado)
+
+Caso de prueba: 0009
+Operacion: mediaAritmetica
+Datos: 5 6
+Tiempo transcurrido: 00:00:00.0000482
+Resultado: 5.5
+
+Caso de prueba: 0010
+Operacion: mediaGeometrica
+Datos: '0' '0' '0' '0'
+Tiempo transcurrido: 00:00:00.0000496
+Resultado: Prueba fallida(Elementos vacios,en 0 o datos no numericos)
+
+Caso de prueba: 0011
+Operacion: mediaAritmetica
+Datos: 'NULL'
+Tiempo transcurrido: 00:00:00.0000468
+Resultado: Prueba fallida(Elementos vacios,en 0 o datos no numericos)
+
+Caso de prueba: 0012
+Operacion: mediaGeometrica
+Datos: 'NULL'
+Tiempo transcurrido: 00:00:00.0275821
+Resultado: Prueba fallida(Elementos vacios,en 0 o datos no numericos)
+
+Caso de prueba: 0013
+Operacion: mediaNoExiste
+Datos: 2 3 6
+Tiempo transcurrido: 00:00:00.0004804
+Resultado: 
+

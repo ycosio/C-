@@ -1,0 +1,9 @@
+c:\users\yair\documents\visual studio 2015\Projects\LecturaXML\LecturaXML\bin\Debug\LecturaXML.exe.config
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\LecturaXML\LecturaXML\bin\Debug\LecturaXML.exe
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\LecturaXML\LecturaXML\bin\Debug\LecturaXML.pdb
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\LecturaXML\LecturaXML\obj\Debug\LecturaXML.csprojResolveAssemblyReference.cache
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\LecturaXML\LecturaXML\obj\Debug\LecturaXML.Form1.resources
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\LecturaXML\LecturaXML\obj\Debug\LecturaXML.Properties.Resources.resources
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\LecturaXML\LecturaXML\obj\Debug\LecturaXML.csproj.GenerateResource.Cache
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\LecturaXML\LecturaXML\obj\Debug\LecturaXML.exe
+C:\Users\Yair\Documents\Visual Studio 2015\Projects\LecturaXML\LecturaXML\obj\Debug\LecturaXML.pdb

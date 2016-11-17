@@ -1,0 +1,15 @@
+0001:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8
+0002:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 8 9
+0003:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 4
+0004:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 10 12
+0005:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 5 6 7
+0006:mediaAritmetica:mediaGeometrica:mediaArmonica:
+0007:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 
+0008:mediaAritmetica:mediaGeometrica:mediaArmonica:2 
+0009:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 3
+0010:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 3 3
+0011:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 5 6 8
+0012:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 9 1 1
+0013:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 3 5 
+0014:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 2 2
+0015:mediaAritmetica:mediaGeometrica:mediaArmonica:2 4 8 4 4 4

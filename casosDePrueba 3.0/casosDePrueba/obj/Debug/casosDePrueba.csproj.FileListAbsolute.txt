@@ -1,0 +1,18 @@
+c:\users\temp.telematica\documents\visual studio 2013\Projects\casosDePrueba\casosDePrueba\bin\Debug\casosDePrueba.exe.config
+c:\users\temp.telematica\documents\visual studio 2013\Projects\casosDePrueba\casosDePrueba\bin\Debug\casosDePrueba.exe
+c:\users\temp.telematica\documents\visual studio 2013\Projects\casosDePrueba\casosDePrueba\bin\Debug\casosDePrueba.pdb
+c:\users\temp.telematica\documents\visual studio 2013\Projects\casosDePrueba\casosDePrueba\obj\Debug\casosDePrueba.csprojResolveAssemblyReference.cache
+c:\users\temp.telematica\documents\visual studio 2013\Projects\casosDePrueba\casosDePrueba\obj\Debug\casosDePrueba.exe
+c:\users\temp.telematica\documents\visual studio 2013\Projects\casosDePrueba\casosDePrueba\obj\Debug\casosDePrueba.pdb
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 2.0\casosDePrueba\bin\Debug\casosDePrueba.exe.config
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 2.0\casosDePrueba\obj\Debug\casosDePrueba.exe
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 2.0\casosDePrueba\obj\Debug\casosDePrueba.pdb
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 2.0\casosDePrueba\bin\Debug\casosDePrueba.exe
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 2.0\casosDePrueba\bin\Debug\casosDePrueba.pdb
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 2.0\casosDePrueba\obj\Debug\casosDePrueba.csprojResolveAssemblyReference.cache
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 3.0\casosDePrueba\bin\Debug\casosDePrueba.exe.config
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 3.0\casosDePrueba\obj\Debug\casosDePrueba.exe
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 3.0\casosDePrueba\obj\Debug\casosDePrueba.pdb
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 3.0\casosDePrueba\obj\Debug\casosDePrueba.csprojResolveAssemblyReference.cache
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 3.0\casosDePrueba\bin\Debug\casosDePrueba.exe
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\casosDePrueba 3.0\casosDePrueba\bin\Debug\casosDePrueba.pdb

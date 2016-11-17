@@ -1,0 +1,42 @@
+Caso de prueba: 0001
+Operacion: ordenado
+Datos: 1 2 3 4 5
+Tiempo transcurrido: 00:00:00.0002912
+Resultado: True
+Esperado: 1 2 3 4 5
+
+Caso de prueba: 0001
+Operacion: ordenado
+Datos: 1 2 3 4 5
+Tiempo transcurrido: 00:00:00.0000009
+Resultado: True
+Esperado: 1 2 3 4 5
+
+Caso de prueba: 0001
+Operacion: ordenado
+Datos: 1 2 3 4 5
+Tiempo transcurrido: 00:00:00.0000004
+Resultado: True
+Esperado: 1 2 3 4 5
+
+Caso de prueba: 0001
+Operacion: ordenado
+Datos: 1 2 3 4 5
+Tiempo transcurrido: 00:00:00.0000004
+Resultado: True
+Esperado: 1 2 3 4 5
+
+Caso de prueba: 0001
+Operacion: ordenado
+Datos: 1 2 3 4 5
+Tiempo transcurrido: 00:00:00.0000009
+Resultado: True
+Esperado: 1 2 3 4 5
+
+Caso de prueba: 0001
+Operacion: ordenado
+Datos: 1 2 3 4 5
+Tiempo transcurrido: 00:00:00.0000004
+Resultado: True
+Esperado: 1 2 3 4 5
+
